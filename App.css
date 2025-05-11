@@ -1,0 +1,12 @@
+/* App-level styles */
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: #f5f5f5;
+  min-height: 100vh;
+}
+
+.App h1 {
+  color: #4caf50;
+  margin-bottom: 20px;
+}

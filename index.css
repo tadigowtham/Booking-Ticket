@@ -1,0 +1,19 @@
+/* Body styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f9f9f9;
+}
+
+/* Default root font size */
+html {
+  font-size: 16px;
+}
+
+/* Styling for a full-width container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
